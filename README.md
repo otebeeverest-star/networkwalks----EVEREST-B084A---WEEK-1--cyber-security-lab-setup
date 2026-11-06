@@ -175,6 +175,14 @@ This provides a known-good recovery point for future cybersecurity exercises.
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
 
 ---
+
+SCREENSHOTS
+
+![](KALI%20LINUX.png)
+![](KALI%20SETTINGS.jpeg)
+![](NETWORK%20SETTINGS%202.png)
+![](NETWORK%20SETTINGS.png)
+
 # 🔗 Tools & Resources
 
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
